@@ -24,12 +24,9 @@
 
 ### tracking logged users
 
-## Team members :
 
-- [Azzam Faraj](https://github.com/AZZIE2000)
-- [Jafer Aldakhily](https://github.com/Jafer-Aldakhily)
 - [Mohammed Alblewi](https://github.com/mohammedalblewi)
-- [Dana Alomari](https://github.com/DanaAlomari)
+- 
 
 [live link](https://mohammedalblewi.github.io/Todo-website/)
 [Figma link](https://www.figma.com/file/BU7Db5UkPcYimCRe6WgdWt/To-Do?node-id=0%3A1)

@@ -5,6 +5,7 @@ body {
 
 .card .card-header.no-border {
   border: 0;
+  background-color: #2f3a53;
 }
 .card .card-header {
   background: none;
@@ -13,6 +14,7 @@ body {
   display: flex;
   align-items: center;
   min-height: 50px;
+  
 }
 
 .widget-49 .widget-49-title-wrapper {
